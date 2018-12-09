@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: none;
+    font-size: 16px;
+}
+
+.wrapper {
+    max-width: 1500px;
+    min-width: 960px;
+    margin: auto;
+}
+
+.header {
+    border: 2px solid green;
+}
+
+
